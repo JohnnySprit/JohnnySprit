@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello! 🐒
+I'm Johnny Zheng, a Computer Science student at Indiana University - Bloomington.
 
-<!--
-**JohnnySprit/JohnnySprit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm super passionate about using technology, problem solving, and creativity to build products that have a real impact on people. As a life-long learner, I have worked on many personal and collaborative projects while adding new tools/technologies under my belt.
 
-Here are some ideas to get you started:
+Facts about me:
+ - 💻️ I’m specializing in Software Engineering and AI, with a minor in Data Science
+ - 🎺 I have a deep love for the marching arts
+ - 🧗 Hitting the climbing gym a few times a week helps me recharge
+ - ⌨️ I love mechanical keyboards! (HHKBs in particular)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me by email (jnzheng@iu.edu) or on LinkedIn (https://www.linkedin.com/in/jnzheng/)
+
+### Check out the languages that I use!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnysprit&theme=github_dark_dimmed&layout=compact)
+
+
